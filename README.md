@@ -1,6 +1,6 @@
  Hi, I’m Nomvelo Myeni
  I’m interested in IT as a whole and I also like reading novels and playing games
- I’m currently trying to secure  space at umuzi data science course and i am seemingly failing dismally since I do not get anything right
+ I’m currently trying to secure  space at umuzi data science course and I am seemingly failing dismally since I do not get anything right
 
 
 <!---
